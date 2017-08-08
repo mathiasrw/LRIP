@@ -1,7 +1,6 @@
-# LRIP
-Currated list of lightweight, readable implementations of various protocols/technologies. Inspired by (this comment)[https://news.ycombinator.com/item?id=14953648] on HN.
+# Lightweight, readable implementations of various protocols
 
-_Please help out and add more links..._
+Currated list of lightweight, readable implementations of various protocols/technologies. Please help out and add more links...
 
 ## A
 
@@ -56,3 +55,7 @@ _Please help out and add more links..._
 ## Y
 
 ## Z
+
+----
+
+Inspired by (this comment)[https://news.ycombinator.com/item?id=14953648] on HN.
