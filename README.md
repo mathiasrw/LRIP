@@ -6,7 +6,7 @@ Currated list of lightweight, readable implementations of various protocols/tech
 
 ## B
 - **Bitcoin** 
-  -[Tinychain](https://github.com/jamesob/tinychain): a pocket-sized implementation of Bitcoin
+  - [Tinychain](https://github.com/jamesob/tinychain): a pocket-sized implementation of Bitcoin
 
 ## C
 
