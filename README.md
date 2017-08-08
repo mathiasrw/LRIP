@@ -1,4 +1,4 @@
-# Lightweight, readable implementations of various protocols
+# Lightweight, readable implementations of protocols
 
 Currated list of lightweight, readable implementations of various protocols/technologies. Please help out and add more links...
 
